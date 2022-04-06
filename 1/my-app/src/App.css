@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#root {
+  display: block ruby;
+}
+
+.container {
+  border: 1px solid black;
+}
+
+.p-8 {
+  padding: 8px;
+}
+
+.selectItem {
+  text-align: left;
+  padding-top: 8px;
+  padding-left: 16px;
+}
+
+.bg-blue {
+  background-color: lightblue;
+  padding: 9px;
+  margin-bottom: 15px;
+}
+
+.bg-pink {
+  background-color: lightcoral;
+  padding: 9px;
+
+}
+
+h1 {
+  margin: 0px;
+}
+
+.d-flex {
+  display: flex;
+}
